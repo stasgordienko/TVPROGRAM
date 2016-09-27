@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tv</string>
+    <string name="action_update">Update</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_select_date">Select DATE</string>
+    <string name="action_categories">CATEGORIES</string>
+    <string name="action_channels">CHANNELS</string>
+    <string name="action_favorites">FAVORITES</string>
+    <string name="update_button">UPDATE DataBase</string>
+</resources>
